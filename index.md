@@ -10,4 +10,4 @@ My research focuses on topics related to **(Quantitative) Macroeconomics** and *
 For more information, have a look at my [research](https://michaelbarczay.com/research) or my [CV](/assets/CV_Barczay.pdf). 
 
 
-*Disclaimer:* The views expressed here are my own and not necessarily those of the IMF, its Executive Board, or IMF management.
+*The views expressed here are my own and not necessarily those of the IMF, its Executive Board, or IMF management.*
