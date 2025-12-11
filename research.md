@@ -31,7 +31,7 @@ We study the aggregate and distributional consequences of green investment tax c
 
 ---
 
-<span style="color:Navy"> **Taxing Mobile Money: Theory and Evidence** </span> <br>
+<span style="color:Navy"> **Taxing Mobile Money: Theory and Evidence** </span> ([IMF WP]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5375471](https://www.imf.org/en/publications/wp/issues/2025/12/05/taxing-mobile-money-theory-and-evidence-572369))) <br>
     - <span style="font-size: 0.9em;">with *Shafik Hebous*, *Faycal Sawadogo* and *Jean-Francois Wen* </span> <br>
     - <span style="font-size: 0.9em;">Presented at: *IMF Tax Policy Brown Bag (2024)*, *Digital Money and Taxation Workshop (2025)*</span> <br>
     
