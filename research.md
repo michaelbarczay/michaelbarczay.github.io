@@ -41,6 +41,8 @@ We study the aggregate and distributional consequences of green investment tax c
     - <span style="font-size: 0.9em;">with *Shafik Hebous* and *Tom Zimmermann* </span> <br>
     - <span style="font-size: 0.9em;">Presented at: *IMF Tax Policy Brown Bag (2026)*
     </span> <br>
+
+---    
     
 <span style="color:Navy"> **Heterogeneity in the Bank Lending Channel: Evidence from the Euro Area** </span> <br>
     - <span style="font-size: 0.9em;">with *Sylvia Kaufmann* </span>
