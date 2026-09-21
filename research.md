@@ -36,6 +36,11 @@ We study the aggregate and distributional consequences of green investment tax c
     - <span style="font-size: 0.9em;">Presented at: *IMF Tax Policy Brown Bag (2024)*, *Digital Money and Taxation Workshop (2025)*</span> <br>
     
 ---
+
+<span style="color:Navy"> **The Limits of a Broad VAT Cut: Pass-Through Heterogeneity and Welfare Interpretation** </span> ([CESifo Working Paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/limits-broad-vat-cut-pass-through-heterogeneity-and-welfare)) <br>
+    - <span style="font-size: 0.9em;">with *Shafik Hebous* and *Tom Zimmermann* </span> <br>
+    - <span style="font-size: 0.9em;">Presented at: *IMF Tax Policy Brown Bag (2026)*
+    </span> <br>
     
 <span style="color:Navy"> **Heterogeneity in the Bank Lending Channel: Evidence from the Euro Area** </span> <br>
     - <span style="font-size: 0.9em;">with *Sylvia Kaufmann* </span>
