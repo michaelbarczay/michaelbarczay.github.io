@@ -52,9 +52,3 @@ We study the aggregate and distributional consequences of green investment tax c
 <span style="color:Navy"> **Participation and Capital Dynamics: A Framework for Analysis** </span> <br>
     - <span style="font-size: 0.9em;">with *Russell Cooper* </span>
     
----
-
-<br>
-#### <ins>Policy</ins> <br>
-<br>
-
