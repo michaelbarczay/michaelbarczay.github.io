@@ -6,7 +6,6 @@ title: "research"
 ## Policy <br>
 
 <span style="color:Navy"> **Fiscal Monitor, April 2026 — Fiscal Policy under Pressure: High Debt, Rising Risks** </span> ([Link](https://www.imf.org/en/publications/fm/issues/2026/04/15/fiscal-monitor-april-2026)) <br>
-    - <span style="font-size: 0.9em;">Contributing author</span> <br>
 
 ---
 
