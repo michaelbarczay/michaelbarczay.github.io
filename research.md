@@ -3,25 +3,61 @@ layout: research
 title: "research"
 ---
 
-<ins>Working Papers</ins> <br>
+#### <ins>Working Papers</ins> <br>
 <br>
 
-<span style="color:Navy"> On the Optimal Design of Consumption Taxes </span> (SSRN, Study Center Gerzensee Working Paper)<br> - <span style="font-size: 0.9em;">EUI Best Second Year Paper Award</span> <br> - <span style="font-size: 0.9em;">Presented at: EUI 2nd Year Forum (2022), Swiss Economists Abroad End of the Year Conference 2022, Banco Central de Chile, EUI Macro Working Group (2023), SAEe 2023, Study Center Gerzensee, MMF Annual Conference 2024, Doctoral Workshop on Quantitative Dynamic Economics (AMSE) 2024, SNB-JME Conference Gerzensee (2026)</span>
+<span style="color:Navy"> **On the Optimal Design of Consumption Taxes** </span> ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5375471), [Study Center Gerzensee Working Paper](https://szgerzensee.ch/fileadmin/Dateien_Anwender/Dokumente/working_papers/wp-2503.pdf))<br>
+    -  <span style="font-size: 0.9em;">*EUI Best Second Year Paper Award*</span> <br>
+    - <span style="font-size: 0.9em;">Presented at: *EUI 2nd Year Forum (2022), Swiss Economists Abroad End of the Year Conference 2022, Banco Central de Chile, EUI Macro Working Group (2023), SAEe 2023, Study Center Gerzensee, MMF Annual Conference 2024, Doctoral Workshop on Quantitative Dynamic Economics (AMSE) 2024, SNB-JME Conference Gerzensee (2026)*</span>
+<details>
+  <summary>Abstract</summary>
+How should differentiated consumption taxes be designed in the presence of capital income taxes and progressive labor income taxes?
+I study this question using a quantitative model featuring heterogeneous households with non-homothetic preferences, uninsurable idiosyncratic risk, and a government that uses various tax instruments to raise revenue. I estimate the parameters governing households' demand using data from the US Consumption Expenditure Survey, and show that my model matches the heterogeneous consumption behavior across the income distribution. Allowing the benevolent government to jointly optimize consumption taxes on 11 different consumption categories and labor income taxes, I find that necessities should be heavily subsidized (-50%), that luxuries are optimally taxed at a positive rate (12%), and that the level of the labor income tax is increased while its progressivity remains largely unchanged from the status quo. Three main mechanisms explain why such differentiated tax rates are welfare maximizing: they reduce consumption inequality by subsidizing essential goods of low-income households, imply a targeted taxation of the initial wealth of high-wealth households, and induce highly productive households to increase their labor supply.
+</details>
 
-<details> <summary>Abstract</summary> How should differentiated consumption taxes be designed in the presence of capital income taxes and progressive labor income taxes? I study this question using a quantitative model featuring heterogeneous households with non-homothetic preferences, uninsurable idiosyncratic risk, and a government that uses various tax instruments to raise revenue. I estimate the parameters governing households' demand using data from the US Consumption Expenditure Survey, and show that my model matches the heterogeneous consumption behavior across the income distribution. Allowing the benevolent government to jointly optimize consumption taxes on 11 different consumption categories and labor income taxes, I find that necessities should be heavily subsidized (-50%), that luxuries are optimally taxed at a positive rate (12%), and that the level of the labor income tax is increased while its progressivity remains largely unchanged from the status quo. Three main mechanisms explain why such differentiated tax rates are welfare maximizing: they reduce consumption inequality by subsidizing essential goods of low-income households, imply a targeted taxation of the initial wealth of high-wealth households, and induce highly productive households to increase their labor supply. </details>
+    
+---
 
-<span style="color:Navy"> Taxing Mobile Money: Theory and Evidence </span> (IMF Working Paper, CESifo Working Paper, VoxDev Blog) <br> - <span style="font-size: 0.9em;">Submitted</span> <br> - <span style="font-size: 0.9em;">with Shafik Hebous, Faycal Sawadogo and Jean-Francois Wen </span> <br> - <span style="font-size: 0.9em;">Presented at: IMF Tax Policy Brown Bag (2024), Digital Money and Taxation Workshop (2025)</span>
+<span style="color:Navy"> **Taxing Mobile Money: Theory and Evidence** </span> ([IMF Working Paper](https://www.imf.org/en/publications/wp/issues/2025/12/05/taxing-mobile-money-theory-and-evidence-572369), [CESifo Working Paper](https://www.ifo.de/en/cesifo/publications/2025/working-paper/taxing-mobile-money-theory-and-evidence),  [VoxDev Blog](https://voxdev.org/topic/public-economics/why-taxing-mobile-money-can-backfire)) <br>
+    - <span style="font-size: 0.9em;">*Submitted*</span> <br>
+    - <span style="font-size: 0.9em;">with *Shafik Hebous*, *Faycal Sawadogo* and *Jean-Francois Wen* </span> <br>
+    - <span style="font-size: 0.9em;">Presented at: *IMF Tax Policy Brown Bag (2024)*, *Digital Money and Taxation Workshop (2025)*</span>
+<details>
+  <summary>Abstract</summary>
+Mobile money has become a central digital alternative to traditional banking in developing countries, yet several African governments have introduced taxes on mobile money transactions. We develop a model that characterizes how such taxes affect payment choices and generate excess burden. The model predicts that taxation reduces mobile money use, with elasticities shaped by access to substitutes and transaction costs: banked users substitute into formal alternatives, while unbanked users face higher effective costs, making the tax regressive. Taxation also induces substitution into cash, raising informality. We empirically test these predictions using cross-country survey data and novel transaction-level data from Cameroon, the Central African Republic, and Mali. Results show sharp declines in mobile money usage, with stronger responses among the banked. Unbanked and rural users bear a disproportionate burden. We use the empirical estimates to gauge the excess burden of the tax, which we quantify at 35% of revenue—highlighting its significant efficiency cost alongside its regressive impact.
+</details>
 
-<details> <summary>Abstract</summary> Mobile money has become a central digital alternative to traditional banking in developing countries, yet several African governments have introduced taxes on mobile money transactions. We develop a model that characterizes how such taxes affect payment choices and generate excess burden. The model predicts that taxation reduces mobile money use, with elasticities shaped by access to substitutes and transaction costs: banked users substitute into formal alternatives, while unbanked users face higher effective costs, making the tax regressive. Taxation also induces substitution into cash, raising informality. We empirically test these predictions using cross-country survey data and novel transaction-level data from Cameroon, the Central African Republic, and Mali. Results show sharp declines in mobile money usage, with stronger responses among the banked. Unbanked and rural users bear a disproportionate burden. We use the empirical estimates to gauge the excess burden of the tax, which we quantify at 35% of revenue—highlighting its significant efficiency cost alongside its regressive impact. </details>
+---
 
-<span style="color:Navy"> The Limits of a Broad VAT Cut: Pass-Through Heterogeneity and Welfare Interpretation </span> (CESifo Working Paper) <br> - <span style="font-size: 0.9em;">Submitted</span> <br> - <span style="font-size: 0.9em;">with Shafik Hebous and Tom Zimmermann </span> <br> - <span style="font-size: 0.9em;">Presented at: IMF Tax Policy Brown Bag (2026) </span>
+<span style="color:Navy"> **The Limits of a Broad VAT Cut: Pass-Through Heterogeneity and Welfare Interpretation** </span> ([CESifo Working Paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/limits-broad-vat-cut-pass-through-heterogeneity-and-welfare)) <br>
+    - <span style="font-size: 0.9em;">*Submitted*</span> <br>
+    - <span style="font-size: 0.9em;">with *Shafik Hebous* and *Tom Zimmermann* </span> <br>
+    - <span style="font-size: 0.9em;">Presented at: *IMF Tax Policy Brown Bag (2026)*
+    </span>
+<details>
+  <summary>Abstract</summary>
+This paper studies heterogeneity in the pass-through of Germany's temporary VAT reduction in July 2020. Using confidential product-level CPI data, we document substantial dispersion in consumer-price responses: nearly half of standard-rate products show no consumer-price change, while 30 percent exhibit full pass-through. Lower-income households experienced somewhat larger proportional price declines than higher-income households. Using an inverse-optimality consistency test, we show that, once the full revenue loss is considered, the reform cannot be rationalized by any progressive weighting of gains across income groups.
+</details>
 
-<details> <summary>Abstract</summary> This paper studies heterogeneity in the pass-through of Germany's temporary VAT reduction in July 2020. Using confidential product-level CPI data, we document substantial dispersion in consumer-price responses: nearly half of standard-rate products show no consumer-price change, while 30 percent exhibit full pass-through. Lower-income households experienced somewhat larger proportional price declines than higher-income households. Using an inverse-optimality consistency test, we show that, once the full revenue loss is considered, the reform cannot be rationalized by any progressive weighting of gains across income groups. </details> <br> #### <ins>Work in Progress</ins> <br> <br>
+<br>
+#### <ins>Work in Progress</ins> <br>
+<br>
 
-<span style="color:Navy"> How to Finance the Green Transition? The Political Economy of Green Investment Tax Credits </span> <br> - <span style="font-size: 0.9em;">with Russell Cooper</span> <br> - <span style="font-size: 0.9em;">Presented at EUI 4th Year Forum (2024), Winter SED Buenos Aires (2024), Econometric Society Winter Meeting (2024), Swiss Economists Abroad End of the Year Conference 2025</span> <br> - <span style="font-size: 0.9em;">Blog post </span>
+<span style="color:Navy"> **How to Finance the Green Transition? The Political Economy of Green Investment Tax Credits** </span> <br>
+    - <span style="font-size: 0.9em;">with *Russell Cooper*</span> <br>
+    - <span style="font-size: 0.9em;">Presented at *EUI 4th Year Forum (2024), Winter SED Buenos Aires (2024), Econometric Society Winter Meeting (2024), Swiss Economists Abroad End of the Year Conference 2025*</span> <br>
+    - <span style="font-size: 0.9em;">[Blog post](https://lafonte.eui.eu/2024/04/11/financing-the-green-transition-the-political-economy-of-investment-tax-credits/) </span>
+<details>
+  <summary>Abstract</summary>
+Green policies aimed at mitigating climate change and pollution often face substantial popular opposition. We study this tension in the context of green investment tax credits (ITCs), analyzing their political economy in an overlapping generations model with heterogeneous households, multiple sectors, and a polluting technology. The policy improves long-run welfare by reducing pollution but generates short-run distributional conflicts: high- and low-income households differ in their immediate gains, while future generations benefit disproportionately. As a result, a fully tax-financed ITC may fail to obtain majority support at adoption, even though it is socially desirable in the long run. We show that partial debt financing resolves this tension. By spreading costs within and across generations, debt issuance raises approval rates. The debt can be fully repaid over time while preserving support for the ITC, as shifts in asset market participation and factor prices gradually realign incentives. These results highlight how intertemporal fiscal design can reconcile environmental effectiveness with political feasibility.
+</details>
 
-<details> <summary>Abstract</summary> Green policies aimed at mitigating climate change and pollution often face substantial popular opposition. We study this tension in the context of green investment tax credits (ITCs), analyzing their political economy in an overlapping generations model with heterogeneous households, multiple sectors, and a polluting technology. The policy improves long-run welfare by reducing pollution but generates short-run distributional conflicts: high- and low-income households differ in their immediate gains, while future generations benefit disproportionately. As a result, a fully tax-financed ITC may fail to obtain majority support at adoption, even though it is socially desirable in the long run. We show that partial debt financing resolves this tension. By spreading costs within and across generations, debt issuance raises approval rates. The debt can be fully repaid over time while preserving support for the ITC, as shifts in asset market participation and factor prices gradually realign incentives. These results highlight how intertemporal fiscal design can reconcile environmental effectiveness with political feasibility. </details>
-
-<span style="color:Navy"> Heterogeneity in the Bank Lending Channel: Evidence from the Euro Area </span> <br> - <span style="font-size: 0.9em;">with Sylvia Kaufmann </span>
-
-<span style="color:Navy"> Participation and Capital Dynamics: A Framework for Analysis </span> <br> - <span style="font-size: 0.9em;">with Russell Cooper </span>
+---    
+    
+<span style="color:Navy"> **Heterogeneity in the Bank Lending Channel: Evidence from the Euro Area** </span> <br>
+    - <span style="font-size: 0.9em;">with *Sylvia Kaufmann* </span>
+    
+---
+    
+<span style="color:Navy"> **Participation and Capital Dynamics: A Framework for Analysis** </span> <br>
+    - <span style="font-size: 0.9em;">with *Russell Cooper* </span>
